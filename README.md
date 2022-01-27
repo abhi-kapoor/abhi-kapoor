@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @abhi-kapoor, Senior Site Reliability Engineer @ ecobee.
 - 👀 I’m interested in all things Kubernetes, Cloud and IaC
-- 💞️ I’m looking to collaborate on ...
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/abhikapoor1/)
 
 <!---
